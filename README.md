@@ -22,13 +22,13 @@ https://youtube.com/shorts/SRHbr1rNT_A?feature=shared
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 App: Youtube
-Adjusting video speed.
+Adjusting video speed,
 Miniplayer
 App: Pinterest
-Collages
+Collages,
 Boards
 App: Slack
-Huddles
+Huddles,
 Catch-Up
 
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. 
